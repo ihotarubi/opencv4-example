@@ -1,2 +1,2 @@
-# opencv4-example
-opencv4 learning source code
+# opencv4-tutorials
+opencv4 tutorials
